@@ -1,1 +1,1 @@
-web: gunicorn blom.wsgi
+web: gunicorn blom.wsgi --log-file -
